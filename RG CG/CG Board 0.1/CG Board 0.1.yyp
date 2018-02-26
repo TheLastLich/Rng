@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "038d138f-1395-4495-8c58-d3095cf76436",
+            "Value": {
+                "id": "9810bce5-769c-44a8-a394-349acce335e5",
+                "resourcePath": "sprites\\spr_card5\\spr_card5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "053399ed-cdbe-4881-86a8-cf1ce68c3e4a",
             "Value": {
                 "id": "bcdbd7d4-eb8a-4ae3-8870-ae65d1f50c6b",
@@ -52,6 +60,14 @@
                 "id": "17e51576-4bad-4982-a39e-33a8e23ceac6",
                 "resourcePath": "views\\0f5439fd-e542-4daa-89b0-b4c3fca52a49.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1bac32d0-7da7-4295-950b-4c4f37dc1784",
+            "Value": {
+                "id": "9f425549-e137-4670-b8cf-23fa6efce379",
+                "resourcePath": "sprites\\spr_card2\\spr_card2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -191,6 +207,14 @@
             }
         },
         {
+            "Key": "a4738065-f29d-4b6e-8081-029f0dc9cb0a",
+            "Value": {
+                "id": "ce69f6c0-0620-40b6-90c2-96c83c615e54",
+                "resourcePath": "sprites\\spr_card4\\spr_card4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a81a1038-2e24-4182-b470-18b737495ade",
             "Value": {
                 "id": "74646a7a-7679-4b51-9fa0-de2b5419626e",
@@ -227,6 +251,14 @@
             "Value": {
                 "id": "c4f8ccaa-69f9-4039-87b5-6a37f05553e0",
                 "resourcePath": "sprites\\spr_card_general\\spr_card_general.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b1a9c506-597f-4bb1-b3fb-c3612a10c904",
+            "Value": {
+                "id": "4b3100a9-b5d1-48c4-89ce-ce4b0de57fd6",
+                "resourcePath": "sprites\\spr_card1\\spr_card1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -300,6 +332,14 @@
                 "id": "ceaf9374-1951-436b-a892-c71151aae4e9",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fa8a8c2e-9483-45ad-832d-879363bb79b0",
+            "Value": {
+                "id": "27a9cbc3-9ab1-4cb4-ae6c-74fd0925e1ad",
+                "resourcePath": "sprites\\spr_card3\\spr_card3.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
