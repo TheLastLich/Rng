@@ -1,1 +1,3 @@
-lclick = false;
+lClick = false;
+x = oldX;
+y = oldY;
