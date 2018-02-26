@@ -1,1 +1,1 @@
-handsize = 0;
+handSize = 0;
