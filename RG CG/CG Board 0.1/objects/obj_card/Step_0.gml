@@ -1,3 +1,5 @@
+
+
 if (lClick && (sprite_index == canGrab) && !releasedOnZone){
 	collidingWithZone = false;
 	x = mouse_x
