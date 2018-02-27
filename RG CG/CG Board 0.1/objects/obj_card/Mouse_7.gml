@@ -1,11 +1,11 @@
 releasedCard = true;
 lClick = false;
 canGrab = true;
-//show_message(sprite_index);
+depth = -500;
+
 if (!releasedOnZone && !collidingWithZone){
 	x = oldX;
 	y = oldY;
-	depth = 100;
 }
 
 
