@@ -1,0 +1,1 @@
+canGrab = sprite_index;
