@@ -5,6 +5,4 @@ collidingWithZone = true;
 
 if (releasedCard == true) {
 	releasedOnZone = true;
-	//x = initialZoneX;
-	//y = initialZoneY;
 }

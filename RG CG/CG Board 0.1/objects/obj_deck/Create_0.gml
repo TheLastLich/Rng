@@ -1,7 +1,11 @@
-handSize = 0;
 globalvar cards;
 globalvar currentCard;
 currentCard = 3;
+
+
+handSize = 0;
+
+
 
 globalvar SPRITE_CARD;
 SPRITE_CARD = "spr_card";

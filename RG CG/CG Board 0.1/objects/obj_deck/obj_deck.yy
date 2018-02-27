@@ -5,16 +5,6 @@
     "name": "obj_deck",
     "eventList": [
         {
-            "id": "8c0d2f4c-2448-411e-b192-48b61e1f90eb",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "768b59f3-48b5-4cd2-9abd-78a672c53fe2"
-        },
-        {
             "id": "6746d99a-d9bd-4a14-b0e8-dff8074a229d",
             "modelName": "GMEvent",
             "mvc": "1.0",

@@ -1,4 +1,4 @@
-//Card creation
+//Black mumbo jumbo that somehow functions
 
 object_set_sprite(2,currentCard);
 
@@ -7,4 +7,3 @@ if (handSize < 5){
 	currentCard++;
 	handSize++;
 }
-
