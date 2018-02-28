@@ -2,6 +2,8 @@ globalvar cards;
 globalvar currentCard;
 currentCard = 3;
 
+//Dummy testing with sound
+audio_play_sound(tune_down, 1, true);
 
 handSize = 0;
 
