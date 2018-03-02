@@ -1,5 +1,6 @@
 //Sprite creation
-currentSpriteCard = SPRITE_CARD + string(currentCard+1);
+//currentSpriteCard = SPRITE_CARD + string(currentCard+1);
+
 globalvar cardIndexCounter;
 globalvar heldCardIndex;
 cardIndexCounter = 0;

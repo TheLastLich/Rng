@@ -1,19 +1,21 @@
 globalvar cards;
-globalvar currentCard;
-currentCard = 3;
+//globalvar currentCard;
+//currentCard = 3;
 
 //Dummy testing with sound
 audio_play_sound(tune_down, 1, true);
 
 handSize = 0;
+topDeck = 1;
 
 
 
-globalvar SPRITE_CARD;
-SPRITE_CARD = "spr_card";
-globalvar currentSpriteCard;
+globalvar OBJ_CARD;
+OBJ_CARD = "obj_card_test";
+//globalvar currentSpriteCard;
+ 
+
 //array
-for(i = 0; i < 10; i++){
-	cards[i] = i;
+for(i = 1; i < 6; i++){
+	cards[i] = OBJ_CARD + string(i);
 }
-
