@@ -1,20 +1,21 @@
-//Sprite creation
-//currentSpriteCard = SPRITE_CARD + string(currentCard+1);
+//A ton of vars
 
 globalvar cardIndexCounter;
-globalvar heldCardIndex;
 cardIndexCounter = 0;
-
 obj_index = cardIndexCounter;
 cardIndexCounter++;
 
+globalvar heldCardIndex;
 
 lClick = false;
 globalvar canGrab;
+canGrab = -1;
+
 globalvar releasedCard;
 releasedOnZone = false;
 collidingWithZone = false;
-canGrab = -1;
+
+//Simplify this pls ^^^
 
 
 //For snapping back to hand

@@ -2,6 +2,5 @@
 if(releasedCard && !hasCard){
 	other.x = x;
 	other.y = y;
-	hasCard = true;
-	
+	hasCard = true;	
 }
