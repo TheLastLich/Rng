@@ -1,0 +1,1 @@
+audio_play_sound(TitleScreenDummy,0,false)
