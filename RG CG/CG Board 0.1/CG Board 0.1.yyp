@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "5cd02e74-da1d-4d0e-bc5f-f3648a14387c",
+            "Value": {
+                "id": "bad1e184-c38d-4c31-bc26-054ac6670b60",
+                "resourcePath": "scripts\\drawCard\\drawCard.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6fd07eb7-3a51-4853-ac52-a9962af1ea35",
             "Value": {
                 "id": "2f6e1d28-9ec5-4495-bc5a-f176ec9e1520",
@@ -496,7 +504,7 @@
         }
     ],
     "script_order": [
-        
+        "5cd02e74-da1d-4d0e-bc5f-f3648a14387c"
     ],
     "tutorial": ""
 }
